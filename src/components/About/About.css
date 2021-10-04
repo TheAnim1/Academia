@@ -1,0 +1,13 @@
+.bg-about {
+  background-image: url(/src/images/about.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+  z-index: 0;
+}
+.about-text {
+  font-weight: 400;
+  color: #fff;
+  font-size: 70px !important;
+}

@@ -1,0 +1,76 @@
+.slider-text {
+  height: 100vh;
+  min-height: 750px;
+  color: rgba(255, 255, 255, 0.8);
+  z-index: 3;
+}
+.bg-img {
+  background-image: url(/src/images/banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+  z-index: 0;
+}
+.text-heading {
+  text-transform: uppercase;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 14px;
+  display: inline-block;
+  letter-spacing: 2px;
+  margin-bottom: 5px;
+}
+
+.text h2 {
+  font-weight: 600;
+  color: #fff;
+  font-size: 40px;
+  line-height: 1.2;
+}
+.btn-primary {
+  background: #1eb2a6 !important;
+  border: 1px solid #1eb2a6 !important;
+  color: #fff !important;
+}
+.btn-white {
+  background: #fff !important;
+  border: 1px solid #fff !important;
+  color: #1eb2a6 !important;
+}
+
+.courses {
+  background-color: #f8f8f8;
+}
+
+.heading {
+  font-size: 16px;
+  display: block;
+  margin-bottom: 5px;
+  color: #1eb2a6;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.sub-heading {
+  font-size: 46px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+/* Testimonial  */
+.testimonials-clean {
+  color: #313437;
+  background-color: #f8f8f8;
+}
+
+.testimonials-clean p {
+  color: #7d8285;
+}
+
+.testimonials-clean h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}

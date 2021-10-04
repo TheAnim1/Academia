@@ -1,0 +1,16 @@
+.bg-header {
+  background-color: #f4bf03 !important;
+}
+.nav-link {
+  font-size: 20px;
+  padding-top: 1.4rem;
+  padding-bottom: 1.4rem;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-weight: 500;
+}
+.navbar-brand {
+  font-size: 30px;
+  font-weight: 800;
+  color: #fff;
+}

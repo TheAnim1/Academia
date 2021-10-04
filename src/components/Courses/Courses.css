@@ -1,0 +1,9 @@
+.card-title {
+  font-size: 26px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.card-text {
+  color: #1eb2a6;
+  font-weight: 500;
+}
