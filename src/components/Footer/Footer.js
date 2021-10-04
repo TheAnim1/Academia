@@ -116,7 +116,7 @@ const Footer = () => {
         className="text-center p-3"
         style={{backgroundColor: 'rgba(0, 0, 0, 0.2)'}}
         >
-     © 2020 Copyright: ACADEMIA
+     © 2021 Copyright: ACADEMIA
    </div>
   
  </footer>
